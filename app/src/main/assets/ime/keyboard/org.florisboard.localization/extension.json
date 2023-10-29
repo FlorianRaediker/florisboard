@@ -142,6 +142,17 @@
       }
     },
     {
+      "languageTag": "de-DE-mine",
+      "composer": "org.florisboard.composers:appender",
+      "currencySet": "org.florisboard.currencysets:euro",
+      "popupMapping": "org.florisboard.localization:de-DE-neobone",
+      "preferred": {
+        "characters": "org.florisboard.layouts:mine",
+        "symbols": "org.florisboard.layouts:mine",
+        "numericRow": "org.florisboard.layouts:neo2"
+      }
+    },
+    {
       "languageTag": "de-DE-neobone",
       "composer": "org.florisboard.composers:appender",
       "currencySet": "org.florisboard.currencysets:euro",

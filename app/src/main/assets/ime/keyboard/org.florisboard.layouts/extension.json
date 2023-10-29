@@ -255,6 +255,13 @@
         "modifier": "org.florisboard.layouts:kurdish"
       },
       {
+        "id": "mine",
+        "label": "Mine",
+        "authors": [ "FlorianRaediker" ],
+        "direction": "ltr",
+        "modifier": "org.florisboard.layouts:neo2"
+      },
+      {
         "id": "nalmy",
         "label": "NALMY",
         "authors": [ "jeremiah-mille", "jasmcole" ],
@@ -272,6 +279,13 @@
         "label": "Norwegian (QWERTY)",
         "authors": [ "patrickgold" ],
         "direction": "ltr"
+      },
+      {
+        "id": "noted",
+        "label": "Noted",
+        "authors": [ "FlorianRaediker" ],
+        "direction": "ltr",
+        "modifier": "org.florisboard.layouts:neo2"
       },
       {
         "id": "persian",
@@ -458,6 +472,12 @@
         "label": "کوردی",
         "authors": [ "GoRaN" ],
         "direction": "rtl"
+      },
+      {
+        "id": "mine",
+        "label": "Mine",
+        "authors": [ "FlorianRaediker" ],
+        "direction": "ltr"
       },
       {
         "id": "neo2",
@@ -666,6 +686,13 @@
         "label": "International Phonetic Alphabet",
         "authors": [ "Huy-Ngo" ],
         "direction": "ltr"
+      },
+      {
+        "id": "mine",
+        "label": "Mine",
+        "authors": [ "FlorianRaediker" ],
+        "direction": "ltr",
+        "modifier": "org.florisboard.layouts:neo2"
       },
       {
         "id": "neo2",
